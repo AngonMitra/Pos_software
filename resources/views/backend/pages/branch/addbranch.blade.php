@@ -10,7 +10,7 @@
         <div>
           <h4>Add Branch</h4>
         </div>
-      </div>
+      </div> 
  
     <div class="br-pagebody">
         <div class="row row-sm">
